@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72791027099",
+    "project_id": "mofadala-1aca4",
+    "storage_bucket": "mofadala-1aca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72791027099:android:95fd8c54884f6f414a853e",
+        "android_client_info": {
+          "package_name": "me.egate.moufadala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72791027099-pdbbgtv1cgpsfve1h0c95b2cl93outgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbG4Xv10x9Zx42ymevY77Urmf7-uKeQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72791027099-pdbbgtv1cgpsfve1h0c95b2cl93outgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
